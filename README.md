@@ -41,12 +41,7 @@ With a strong background in both front-end and back-end development, I am confid
 - ⚡ Fun fact: I keep the music on always  
 
 
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
-
 <br/>  
 
 
