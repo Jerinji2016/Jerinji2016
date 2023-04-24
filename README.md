@@ -29,7 +29,7 @@ With a strong background in both front-end and back-end development, I am confid
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Personal project on Community Manage  
+- 🔭 I’m currently working on a project on Community Management  
   
 
 - 🌱 I’m currently learning NestJS and making LLM, GPT models  
