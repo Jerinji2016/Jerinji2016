@@ -87,9 +87,3 @@ With a strong background in both front-end and back-end development, I am confid
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
