@@ -29,7 +29,7 @@ With a strong background in both front-end and back-end development, I am confid
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
   
-- 🌱 I’m currently learning NestJS and SpringBoot
+- 🌱 I’m currently learning Svelte and Go gRPC
   
 
 - ❓ Ask me about anything related to Flutter  
